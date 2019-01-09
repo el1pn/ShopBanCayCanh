@@ -16,7 +16,7 @@ $(document).ready(function () {
   $('.today-deal-slick').slick({
     dots: true,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
@@ -51,7 +51,7 @@ $(document).ready(function () {
   $('.top-sale-slick').slick({
     dots: true,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
@@ -86,7 +86,7 @@ $(document).ready(function () {
   $('.feature-slick').slick({
     dots: false,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
@@ -122,7 +122,7 @@ $(document).ready(function () {
   $('.sales-policy-slick').slick({
     dots: false,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
@@ -157,7 +157,7 @@ $(document).ready(function () {
    $('.blog-slick').slick({
     dots: false,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
@@ -194,7 +194,7 @@ $(document).ready(function () {
   $('.company-slick').slick({
     dots: false,
     arrows: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     autoplaySpeed: 3000,
     speed: 300,
