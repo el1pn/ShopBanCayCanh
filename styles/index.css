@@ -308,6 +308,9 @@ color:  #3A9943;
     background: #3A9943;  
 }
 
+.blog-slick,.product-list  {
+    overflow: hidden;
+}
 .product-list .slick-slide,.blog-slick .slick-slide{
     margin: 0rem 1rem;
 }
