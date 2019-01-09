@@ -200,7 +200,7 @@ color:  #3A9943;
 .new-arrival {
     width: 100%;     
 }
-.new-arrival {
+.new-arrival a{
     position: relative; 
 }
 .new-arrival div{
